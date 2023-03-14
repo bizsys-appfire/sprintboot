@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Documents/main-terraform/leancoder_infra"
+		},
+		{
+			"path": "../Documents/main-terraform/leancoder_s3backend"
+		},
+		{
+			"path": "../Documents/kubernetes-projects"
+		}
+	],
+	"settings": {}
+}
